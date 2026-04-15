@@ -9,4 +9,4 @@ tags: ["cpp", "linux", "python", "electronics"]
 
 To be updated.
 
-![MSc Poster](./MSc_poster_final_JV.png)
+![The completed device with no top plate attached](./mscp_pics/finalform.jpg)
