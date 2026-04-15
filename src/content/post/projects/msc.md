@@ -9,4 +9,4 @@ tags: ["cpp", "linux", "python", "electronics"]
 
 To be updated.
 
-![MSc Poster](./mscp_pics/MSc_poster_final_JV.png)
+![MSc Poster](./MSc_poster_final_JV.png)
