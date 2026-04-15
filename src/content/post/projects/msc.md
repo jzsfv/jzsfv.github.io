@@ -1,10 +1,12 @@
 ---
-title: "Placeholder for MSc project"
-description: "Soon to be updated"
+title: "A Demonstrator Device for Novel Acoustic Metamaterials"
+description: "MSc Research Project"
 publishDate: "10 Dec 2023"
-tags: ["cpp", "linux"]
+tags: ["cpp", "linux", "python", "electronics"]
 ---
 
-## Placeholder for MSc project
+## A Demonstrator Device for Novel Acoustic Metamaterials
 
 To be updated.
+
+![MSc Poster](./mscp_pics/MSc_poster_final_JV.png)
