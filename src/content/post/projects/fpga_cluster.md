@@ -1,10 +1,18 @@
 ---
-title: "Placeholder for FPGA Cluster project"
-description: "Soon to be updated"
+title: "Heterogenous Computing at Home: Stratix V FPGA Cluster"
+description: "FPGA cluster project"
 publishDate: "10 Apr 2026"
-tags: ["fpga"]
+tags: ["fpga", "linux"]
 ---
 
-## Placeholder for FPGA Cluster project
+Text to be uploaded soon.
 
-To be updated.
+[Placeholder for concept graphics]
+
+## Microsoft 'Storey Peak' card
+![Storey Peak card](./fpga_pics/microsoft_card.jpg)
+
+## The 'host' server
+![Ingredients](./fpga_pics/ingredients.jpg)
+
+[Placeholder for note]
