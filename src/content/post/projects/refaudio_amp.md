@@ -1,5 +1,5 @@
 ---
-title: "Placeholder for Amplifier project"
+title: "Reference-grade Audio at Home: Amplifier"
 description: "Soon to be updated"
 publishDate: "10 Apr 2021"
 tags: ["audio", "pcb", "electronics"]
