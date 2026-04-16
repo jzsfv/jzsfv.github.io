@@ -2,9 +2,16 @@
 title: "Placeholder for Amplifier project"
 description: "Soon to be updated"
 publishDate: "10 Apr 2021"
-tags: ["audio", "pcb"]
+tags: ["audio", "pcb", "electronics"]
 ---
 
-## Placeholder for Amplifier project
+Text to be uploaded soon.
 
-To be updated.
+## Amplifier board
+![Amplifier board and PCB design](./amp_pics/amp_board.jpg)
+
+## Power supply board
+![PSU board and PCB design](./amp_pics/psu_board.png)
+
+## Finished product
+![Finished product](./amp_pics/finished.jpg)
