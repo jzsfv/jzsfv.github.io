@@ -7,7 +7,7 @@ tags: ["fpga", "linux"]
 
 Text to be uploaded soon.
 
-![Block diagram](./fpga_pics/block.png)
+![Block diagram](./fpga_pics/block.jpg)
 
 ## Microsoft 'Storey Peak' card
 ![Storey Peak card](./fpga_pics/microsoft_card.jpg)
