@@ -7,7 +7,7 @@ tags: ["fpga", "linux"]
 
 Text to be uploaded soon.
 
-[Placeholder for concept graphics]
+![Block diagram](./fpga_pics/block.png)
 
 ## Microsoft 'Storey Peak' card
 ![Storey Peak card](./fpga_pics/microsoft_card.jpg)
