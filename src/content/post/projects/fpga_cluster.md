@@ -7,12 +7,11 @@ tags: ["fpga", "linux"]
 
 Text to be uploaded soon.
 
-![Block diagram](./fpga_pics/block.jpg)
-
 ## Microsoft 'Storey Peak' card
 ![Storey Peak card](./fpga_pics/microsoft_card.jpg)
 
-## The 'host' server
+## The system
+![Block diagram](./fpga_pics/block.jpg)
 ![Ingredients](./fpga_pics/ingredients.jpg)
 
 [Placeholder for note]
