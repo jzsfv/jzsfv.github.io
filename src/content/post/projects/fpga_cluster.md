@@ -10,7 +10,7 @@ For the last two years, I have been curious about how the reconfigurability of F
 ## Microsoft 'Storey Peak' card
 Cards from Microsoft's [[Catapult v2 project]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Cloud-Scale-Acceleration-Architecture.pdf) can be acquired for 20-30£ a piece, or - with some luck - less in eBay bulk auctions. They feature a generously sized custom Intel Stratix V FPGA (457K LE, 690K registers, DSP variant) and, importantly, 9x 4Gbit onboard RAM modules. The transceivers connect to two separate PCIe v3 x8 hard IP blocks and two QSFP+ cages used for 40GbE, which may be repurposed for FDR Infiniband or a simpler proprietary protocol up to 4*14.1 Gbps.
 
-Apart from the price point, a major advantage of these cards is the considerable amount of reverse engineering work done on them [blog](https://j-marjanovic.io/) [GitHub](https://github.com/wirebond/catapult_v2_pikes_peak) [GitHub](https://github.com/ruurdk/storey-peak) - to the extent that a basic Quartus template project is readily available [GitHub](https://github.com/j-marjanovic/pp-sp-reference-design).
+Apart from the price point, a major advantage of these cards is the considerable amount of reverse engineering work done on them [[blog]](https://j-marjanovic.io/) [[GitHub]](https://github.com/wirebond/catapult_v2_pikes_peak) [[GitHub]](https://github.com/ruurdk/storey-peak) - to the extent that a basic Quartus template project is readily available [[GitHub]](https://github.com/j-marjanovic/pp-sp-reference-design).
 
 ![Storey Peak card](./fpga_pics/microsoft_card.jpg)
 
