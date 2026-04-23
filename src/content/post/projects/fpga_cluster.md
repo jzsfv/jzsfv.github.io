@@ -24,6 +24,4 @@ Additionally, a large Cyclone V-based card (or expanded card array) with an ampl
 The ingredients:
 ![Ingredients](./fpga_pics/ingredients.jpg)
 
-```md
 Follow-up projects will be uploaded as I progress through the exciting tasks: writing HDL code.
-```
