@@ -12,7 +12,7 @@ The concept was clear: a pair of two-way midfield studio monitors with peak SPL 
 
 A SEAS P21REX woofer and a 25TAF/G tweeter were selected as the drivers for availability and superior quality control. This allowed the cabinet simulations based on the supplied TS parameters and responses to be realistic up to only needing fine-tuning later at the build stage. A fourth-order ported alignment was chosen for extended accurate bass response.
 
-The internal aspect ratio of the enclosure is typical at 1:1.62:2.63 to avoid strong internal acoustic modes but keep the driver as close to a wall (behind) as possible. Stiffener shelves interconnected by stiffener bars were added at division points observing non-integer ratios along the height to break up baffles into smaller 'effective resonators'. As such, panel resonance frequencies spread over a wider spectrum that is high enough to be efficiently damped.
+The internal aspect ratio of the enclosure is typical at 1/1.62/2.63 to avoid strong internal acoustic modes but keep the driver as close to a wall (behind) as possible. Stiffener shelves interconnected by stiffener bars were added at division points observing non-integer ratios along the height to break up baffles into smaller 'effective resonators'. As such, panel resonance frequencies spread over a wider spectrum that is high enough to be efficiently damped.
 
 A double front baffle (for extra mass) holds the flush-mounted drivers. Chamfered front edges and woofer cut-outs help reduce diffraction.
 
